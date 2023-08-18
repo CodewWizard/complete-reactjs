@@ -11,6 +11,7 @@ function ExpenseItem(props){
     setTitle("new title")
     console.log(newTitle);
   }
+  
   return(
     <li>
       <div className = "expense-item">
