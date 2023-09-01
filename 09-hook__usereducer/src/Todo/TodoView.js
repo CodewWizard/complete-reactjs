@@ -7,7 +7,7 @@ export default function TodoView({ todo, dispatch }) {
         <br/>
       <span style={{ color: todo.complete ? "#AAA" : "#000" }}>
         {todo.name}
-      </span>
+      </span> &nbsp;
       <button
         className="btn btn-primary"
         onClick={() =>
