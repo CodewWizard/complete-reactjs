@@ -1,11 +1,21 @@
-import './App.css';
+import React, { useState } from "react"
+import Button from "./components/UI/Button/Button"
+import "./App.css"
 
 function App() {
-  return (
-    <div className="App">
-      <h1>hello react</h1>
-    </div>
-  );
+	const [showPara, setShowPara] = useState(false)
+
+	console.log("App running")
+	const clickHandler = () => {
+		setShowPara(!showPara)
+	}
+	return (
+		<div className="app">
+			<h1>Hi there!</h1>
+			{showPara && <p>this is new</p>}
+			<Button onClick={clickHandler}>Toggle para</Button>
+		</div>
+	)
 }
 
-export default App;
+export default App
