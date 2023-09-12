@@ -1,0 +1,457 @@
+[33mcommit eb079d1d8a0f68e2df4c14318585122d827fe01a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Sep 11 19:04:20 2023 +0530
+
+    re-evaluation
+
+[33mcommit 19f75aa9813257dc38fbd6c6898276a237106d1c[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Sep 11 12:47:55 2023 +0530
+
+    component updates in action
+
+[33mcommit 1abce7b8d734a157adcbb8341847b7f8f79c5958[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Sep 11 12:43:09 2023 +0530
+
+    setting up optimization techniques
+
+[33mcommit 38bdb55e95464de6f78e288a8ba702253a38c406[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Sep 11 12:06:56 2023 +0530
+
+    using the use-effect hook
+
+[33mcommit ca9d42a2d3e24ca3295ca03e99ae45d91eb85935[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Sep 11 11:38:38 2023 +0530
+
+    making items removable
+
+[33mcommit afc054845e49aec096dd364f47c0da64574f9e20[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Sep 11 11:21:04 2023 +0530
+
+    working on a more complex reducer logic
+
+[33mcommit 6173c445b9eff31348e1342e67a7283ba479cfe6[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Fri Sep 8 17:02:12 2023 +0530
+
+    modifications
+
+[33mcommit 97f948edc0f3e2aab9291154aa4ded6a82139b45[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Fri Sep 8 17:01:49 2023 +0530
+
+    outputting cart items
+
+[33mcommit 9cefc0ad26c7d5fa2b2c359ce84413d0fdf62e19[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Fri Sep 8 12:42:32 2023 +0530
+
+    adding cart reducer
+
+[33mcommit 409b319c31521243af37ce37c609cf258d7099ae[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Fri Sep 8 12:21:49 2023 +0530
+
+    using the context
+
+[33mcommit 902e25ed5e4c7ff495b14da1a2a9bb3ec8f04a65[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Fri Sep 8 12:03:42 2023 +0530
+
+    adding cart-context
+
+[33mcommit 867a89fecd2b1bf6381a133758a8c934ddcfecfc[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Fri Sep 8 11:43:44 2023 +0530
+
+    managing cart and modal
+
+[33mcommit 3be5e5f7f254b719c1d80e9cab3e5e618ea27ac2[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Sep 5 17:07:55 2023 +0530
+
+    some modifications
+
+[33mcommit 638ca6acaf1211de646c85f14b1e0141cb3b7c08[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Sep 5 17:07:04 2023 +0530
+
+    adding a modal via react-portal
+
+[33mcommit 4056a5ebc65e7c7ee994420b845ebc1f9a1aba62[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Sep 5 16:45:12 2023 +0530
+
+    working on shopping-cart
+
+[33mcommit 0b1687830ea6c2466a8fe9c031ee17d356ab14a0[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Sep 5 15:58:29 2023 +0530
+
+    adding input comp
+
+[33mcommit c25530d1d3165e86258983e2fe8fb467d5271196[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Sep 5 15:44:21 2023 +0530
+
+    setting up and adding comp, assets, layouts..
+
+[33mcommit f04c25bc7db19dc2d43a9f5039972379c79de60c[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Sep 4 17:44:03 2023 +0530
+
+    settng up use-ref
+
+[33mcommit ac07da6a55917f6e11f510b2b1071d51a32fc77d[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Sep 4 15:25:27 2023 +0530
+
+    setting up use-Context
+
+[33mcommit 10d77c1500a0dc70044c3b873265be4e9937c496[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Fri Sep 1 16:20:05 2023 +0530
+
+    modify app
+
+[33mcommit 1580bfadd802748a77f2daf280b8cd77af57499f[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Fri Sep 1 16:19:43 2023 +0530
+
+    adding demo component
+
+[33mcommit ac40a173a6fed21cc0137e5d12eff337d6d6a043[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Fri Sep 1 15:17:24 2023 +0530
+
+    modify todo-view
+
+[33mcommit 34dc3b200e63c8f9b7a2291f5d88632af468f268[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 31 19:25:42 2023 +0530
+
+    add todo-view
+
+[33mcommit f11ece68763d84ab9eb602695d7d4d79ef1e29fd[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 31 19:25:17 2023 +0530
+
+    modify App.js
+
+[33mcommit f12355d405540acaa909e4a780b7e15432adf847[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 31 17:00:25 2023 +0530
+
+    move it into intro directory
+
+[33mcommit ca2f68fe451f8c133dbe578849b0be549df7def3[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 31 16:26:45 2023 +0530
+
+    introducing useReducer
+
+[33mcommit ced51860696925c724519add1d0a93fb0fcedcfd[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 31 16:21:11 2023 +0530
+
+     setting up use-reducer
+
+[33mcommit 358ae9482d001efe94fa35a296bf49fc307d6d69[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Wed Aug 30 19:06:57 2023 +0530
+
+    fetching pokepi
+
+[33mcommit 60ffc5abcdc0524337e118949205bc905d7a12da[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Aug 29 19:48:18 2023 +0530
+
+    put use-effect in appjs
+
+[33mcommit c668ce5da7de3baca95e39c7b14c9ad13297ca8a[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Aug 29 15:06:00 2023 +0530
+
+    setting up use-effect
+
+[33mcommit 80b88a965d8c70514079059361fb8ff8f8657ab4[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Aug 28 18:41:32 2023 +0530
+
+    setting up use-effect
+
+[33mcommit 21b0e826d5db5cb7c048cf5697e53ace2cbf5a60[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Aug 28 15:26:48 2023 +0530
+
+    modify UI
+
+[33mcommit a51f14953d27758589fb533aacbf76c3ed1187d2[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Fri Aug 25 11:49:00 2023 +0530
+
+    modify components and complete the project
+
+[33mcommit e1ca18087509df849d14c722693c89a814c73c23[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 24 18:53:13 2023 +0530
+
+    modify add
+
+[33mcommit e7eb5af6d97e6b56ec01ed2252eda46057b49362[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 24 18:52:42 2023 +0530
+
+    add Users-List
+
+[33mcommit 1de7ca0ee7e72b68f7632ea6ae0cf9eb596cee28[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 24 18:52:19 2023 +0530
+
+    add error-modal
+
+[33mcommit ad2690fbbe0ea1e755e8bf7a96b9bf47b13b6fa8[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 24 15:53:38 2023 +0530
+
+    adding validations and resetting logic
+
+[33mcommit a4e933a8062f8f41a9979c49d7d00046d1728548[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 24 12:36:22 2023 +0530
+
+    deleted extra files
+
+[33mcommit 1ae01eb67606efc798143405b63758a1a546e758[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 24 12:35:23 2023 +0530
+
+    setup components
+
+[33mcommit 1bf6bd67ffb8b73b8932c92b5af39c5782b39c93[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 24 12:27:43 2023 +0530
+
+    username and age
+
+[33mcommit ff171c218c6dc33c5894097ca4e61138da9ae45c[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Wed Aug 23 18:48:10 2023 +0530
+
+    add styling
+
+[33mcommit f531a516d8796faea4471e819a0d0ac11c2f45a9[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Wed Aug 23 16:39:25 2023 +0530
+
+    outputing results conditionally
+
+[33mcommit 3a28688e66bf702e8dca00c00fb7c915ea28637b[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Aug 22 17:15:26 2023 +0530
+
+    lifting the state up
+
+[33mcommit 1b8e5deef846774ce67cedb094ba0d4ab3d39fcc[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Aug 22 16:36:52 2023 +0530
+
+    managing state
+
+[33mcommit 9f2906dd2a7c6154d4beee0fe6ac694f150fafc3[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Aug 22 16:14:24 2023 +0530
+
+    handling events
+
+[33mcommit ce7b10ccfbcfb0cc8b57c869eccc53d756678cf7[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Aug 22 16:09:55 2023 +0530
+
+    setup and splitting into components
+
+[33mcommit 649c5b34f704854c40e37927acbb01bcd73042f3[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Aug 22 16:08:59 2023 +0530
+
+    setup assets
+
+[33mcommit 120ce72ed664aa33456ca996cd8a5e6823d6a75a[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Aug 22 15:58:50 2023 +0530
+
+    setup investment-calculator
+
+[33mcommit 8ac4c27d465a3bed0ec0c5c62c48949d7b2a63ef[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Tue Aug 22 11:48:58 2023 +0530
+
+    setup inotebook
+
+[33mcommit 3250ae10fd243d2982fd233fa059e40439b4ee46[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Aug 21 13:13:38 2023 +0530
+
+    adding course project
+
+[33mcommit 5b7ec2f26b778c93a4034458f5baad5ef1a8272d[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Aug 21 13:01:06 2023 +0530
+
+    modify chart
+
+[33mcommit cef0adee1c956913a212fdf8b3c93506e59abf1f[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Aug 21 13:00:18 2023 +0530
+
+    modify expenses
+
+[33mcommit 5e7f6c42228a6749d9d0f4b21d1d4ee5b5810091[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Mon Aug 21 12:59:13 2023 +0530
+
+    add expense-chart
+
+[33mcommit 4373c59c62ea1c31f46775f999baac896dac6f8b[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Fri Aug 18 19:33:18 2023 +0530
+
+    modify in chart component
+
+[33mcommit e918762e1e206b10db825097cc1fbac3773409a7[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Fri Aug 18 18:59:25 2023 +0530
+
+    modify chartbar
+
+[33mcommit 27658fd471433f3686dd2f458bea23556fbc82c4[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Fri Aug 18 18:31:57 2023 +0530
+
+    chart-bar css added
+
+[33mcommit 0f1026f13ce1951cb7b2d122c0bfdb0e0645b111[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Fri Aug 18 18:29:43 2023 +0530
+
+    chart-bar added
+
+[33mcommit dabd99da1a6850b691e7e96e1e92cd5003fec9e3[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Fri Aug 18 18:20:11 2023 +0530
+
+    chart component added
+
+[33mcommit ce55217b66329ec3aaee95782843e7c5e227aeab[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Fri Aug 18 17:54:02 2023 +0530
+
+    modify expense-item
+
+[33mcommit b5e564edd212c56e6c6904e1eec1512dbe80face[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Fri Aug 18 17:26:23 2023 +0530
+
+    modify components
+
+[33mcommit 1104af5c808971d048669934c1089ad9ddb86f88[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Fri Aug 18 17:25:47 2023 +0530
+
+    rendering expense-list
+
+[33mcommit 1ac44df16989c968b8930303084a0a121b12b01a[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Fri Aug 18 15:29:20 2023 +0530
+
+    modify expense-item
+
+[33mcommit 38895aae23cd42def2da19c47612f87a95fd9c90[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Fri Aug 18 12:12:05 2023 +0530
+
+    adding expenses-filter
+
+[33mcommit b4667d3a43bb3c01d244d691b7f1408e2ad96480[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Thu Aug 17 18:03:49 2023 +0530
+
+    modify expenseForm
+
+[33mcommit 9a6280687919b408053a5c74085bb61c32a4915a[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Thu Aug 17 16:31:50 2023 +0530
+
+    modify index.html
+
+[33mcommit a5512c981363d48292f113bc7cb233cac9420e62[m
+Merge: 69568c8 bb9e6e9
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Thu Aug 17 16:30:59 2023 +0530
+
+    Merge branch 'main' of https://github.com/CodewWizard/complete-reactjs
+
+[33mcommit 69568c8e457cee976148686efa6afa7d5cc64d81[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Thu Aug 17 16:30:46 2023 +0530
+
+    practice-project
+
+[33mcommit bb9e6e9cab7be462877b948be96b76c4ec4484dc[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 17 16:17:54 2023 +0530
+
+    Update README.md
+
+[33mcommit 0fe97b170ddcfe737ae83baa055a303686040e06[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Thu Aug 17 16:16:30 2023 +0530
+
+    setuppp.
+
+[33mcommit d6c68093dcc5c8baf9404cf2e58edbb278735550[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Thu Aug 17 16:06:10 2023 +0530
+
+    components
+
+[33mcommit 64852cb62c266c0b0ca627d0a173681241addafb[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Thu Aug 17 15:47:20 2023 +0530
+
+    setup and hooks
+
+[33mcommit 881979f010e108756e844524ab1d118d0259c100[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 17 15:23:32 2023 +0530
+
+    Delete 01-setup__hooks directory
+
+[33mcommit ef1840a3c6841b8d5c3e8914f5d0fdb67f1ab240[m
+Merge: fd129d9 ca8b045
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Thu Aug 17 15:17:45 2023 +0530
+
+    Merge branch 'main' of https://github.com/CodewWizard/complete-reactjs
+
+[33mcommit fd129d9ba2aaab67f932c258e43d184d2781e071[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Thu Aug 17 15:17:33 2023 +0530
+
+    setup and hooks
+
+[33mcommit ca8b045e9ecefdfdd9909e205ca1e9aa9a05eee1[m
+Author: Madiha Mujawar <madihamujawar410@gmail.com>
+Date:   Thu Aug 17 15:03:30 2023 +0530
+
+    Update README.md
+
+[33mcommit 071a69e754849fff8fccc2f4f8e7013fb9515408[m
+Author: Madiha Mujawar <mmujawar@cogitate.us>
+Date:   Thu Aug 17 15:01:52 2023 +0530
+
+    readme

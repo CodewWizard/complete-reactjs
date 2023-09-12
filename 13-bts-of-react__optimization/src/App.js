@@ -13,8 +13,7 @@ function App() {
 	return (
 		<div className="app">
 			<h1>Hi there!</h1>
-			<h1>this is h1 tag used to toggle</h1>
-			<DemoOutput show={showPara} />
+			<DemoOutput show={false} />
 			<Button onClick={clickHandler}>Toggle para</Button>
 		</div>
 	)

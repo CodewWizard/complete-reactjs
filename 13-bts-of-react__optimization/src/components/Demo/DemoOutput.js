@@ -1,7 +1,9 @@
 import React from 'react'
+import MyParagraph from './MyParagraph';
 
 export default function DemoOutput(props) {
+  console.log("DemoOutput RUNNING");
   return (
-    <p>{props.show ? 'This is new!' : ''}</p>
+    <MyParagraph>{props.show ? 'This is new!' : ''}</MyParagraph>
   )
 }
