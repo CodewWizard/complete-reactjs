@@ -19,7 +19,7 @@ function App() {
         }
       })
       setMovies(transformedmovies);
-      setIsLoading(false)
+      setIsLoading(false);
   }
 
   return (
@@ -31,6 +31,14 @@ function App() {
         {!isLoading && <MoviesList movies={movies} />}
         {!isLoading && movies.length === 0 && <p>Found no movies.</p>}
         {isLoading && <p>Loading...</p>}
+        <p>redux vs react-context</p>
+        <p>react contest is not optimize for high-frequency state changes</p>
+        <p>Action is sent and dispatched from the view which are payload created stire the info of username and info like type time of coordinates</p>
+        <p>redux is pattern and libarary for managing and updating applixation status using events called actions</p>
+        <p>it serves centralized store for state that needs to be used across your entire application 
+          action is plain object have type field tells what to do dont tell how to do 
+          action creator are resubale and portable 
+        </p>
       </section>
     </>
   );
