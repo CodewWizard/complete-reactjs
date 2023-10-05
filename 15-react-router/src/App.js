@@ -5,9 +5,10 @@ import {
   createRoutesFromElements} from 'react-router-dom';
 import { Home } from './routes/Home';
 import './App.css';
-import { Products } from './routes/Products';
+import { ProductsPage } from './routes/Products';
 import { RootLayout } from './routes/Root';
 import { Error } from './routes/Error';
+import  ProductDetailPage  from './routes/ProductDetail';
 
 // const routeDefinitions = createRoutesFromElements(
 //   <Route>
@@ -23,7 +24,9 @@ const router = createBrowserRouter([
     errorElement: <Error />,
     children: [
       {path: '/', element: <Home />},
-      {path: '/products', element: <Products />}
+      {path: '/products', element: <ProductsPage />},
+      // " : " means dynamc identifier
+      {path: '/products/:productId', element: <ProductDetailPage />}
     ]
   }
 ])
@@ -33,7 +36,6 @@ const router = createBrowserRouter([
 function App() {
   return (
     <div>
-      <h1>react router</h1>
       <RouterProvider router={router} />
     </div>
   );
