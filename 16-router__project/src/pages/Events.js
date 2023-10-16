@@ -5,7 +5,8 @@ export const Events = () => {
   return (
     <>
       <h1>Events page</h1>
-      <Link to='/events/new'>New Event</Link>
+      <Link to='/events/new'>New Event</Link> <br/> <br/>
+      <Link to='/events/eventslist'>Events list</Link>
     </>
   )
 }
