@@ -1,7 +1,11 @@
 import React from 'react'
 
-export const EditEvent = () => {
+const EditEvent = () => {
   return (
-    <div>EditEvent</div>
+    <h1>
+      Edit Event
+    </h1>
   )
 }
+
+export default EditEvent;
