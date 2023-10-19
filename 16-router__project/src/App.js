@@ -3,7 +3,6 @@ import "./App.css";
 import { Home } from "./pages/Home";
 import { Events } from "./pages/Events";
 import { NewEvent } from "./pages/NewEvent";
-import { EventsList } from "./components/EventsList";
 import EventDetail from './pages/EventDetail';
 import Root from "./pages/Root";
 import EditEvent from './pages/EditEvent';

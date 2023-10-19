@@ -7,7 +7,6 @@ import { Outlet } from 'react-router-dom';
     <>
         <MainNavigation/>
         <main>
-            <Outlet/>
         </main>
     </>
   )

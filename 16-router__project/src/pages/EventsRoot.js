@@ -1,7 +1,8 @@
-import {Outlet} from 'react'
-import EventsNavigation from '../components/EventsNavigation'
+import React from 'react';
+import EventsNavigation from '../components/EventsNavigation';
+import { Outlet } from 'react-router-dom';
 
-function EventsRoot () {
+const EventsRoot = () => {
   return (
     <>
         <EventsNavigation />

@@ -18,10 +18,10 @@ const EditEvent = () => {
     <>
       <h1>events page</h1>
       <ul>
-        {DUMMY_EVENTS.map((event)=> 
+        {DUMMY_EVENTS.map((event)=> (
           <li key={event.id}>
             <Link to={event.id}>{event.title}</Link>
-          </li>)}
+          </li>))}
       </ul>
     </>
   )
